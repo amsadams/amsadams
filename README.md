@@ -1,3 +1,5 @@
+[[!MasterHead](https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966)]
+
 <h1 align="center">Hi 👋, I'm Anandu Shimon</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -24,7 +26,7 @@
 <a href="https://discord.gg/imadam#2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imadam#2009" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" style="border-radius:20px;">
+<img align="center" alt="coding"  src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" style="border-radius:20;">
 
 [![@amsadams's Holopin board](https://holopin.me/amsadams)](https://holopin.io/@amsadams)
 
