@@ -24,7 +24,7 @@
 <a href="https://discord.gg/imadam#2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imadam#2009" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" style="border-radus:20px">
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" style="border-radus:20px;">
 
 [![@amsadams's Holopin board](https://holopin.me/amsadams)](https://holopin.io/@amsadams)
 
