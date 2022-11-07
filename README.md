@@ -25,7 +25,7 @@
 <a href="https://discord.gg/imadam#2009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imadam#2009" height="30" width="40" /></a>
 </p>
 
-<img align="center" alt="coding"  src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" style="border-radius:20;">
+<img align="center" alt="coding"  src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" style="border-radius:50px;">
 
 [![@amsadams's Holopin board](https://holopin.me/amsadams)](https://holopin.io/@amsadams)
 
